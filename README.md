@@ -63,9 +63,6 @@ Welcome to my GitHub! I’m an adaptable and tech-driven individual with a stron
 
 ---
 
-## 📫 Let's Connect!
-
-- 📧 sofonawilliams123@gmail.com
 - 💼 Open to collaborations and new opportunities in data, security, and cloud.
 
 ---
